@@ -6,7 +6,7 @@ This is the place to suggest what might be useful.
 
 ## Before submitting
 
-Search the existing **Discussions** first.
+Search the existing **Discussions** first. Go to [Ideas](https://github.com/orgs/magtlbox/discussions/categories/ideas)
 
 If someone has already described the same or a similar need, **upvote it instead of creating a duplicate**. Votes are one of the signals I use to see what people actually need and what may be worth building next.
 
